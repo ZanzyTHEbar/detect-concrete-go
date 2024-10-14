@@ -5,7 +5,7 @@ This repo shows that working in go with opencv is possible. The code is a simple
 ## Requirements
 
 - Docker
-- GoCV (https://gocv.io/)
+- [GoCV](https://gocv.io/)
 - Go 1.23
 
 ### How to install GoCV
